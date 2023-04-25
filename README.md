@@ -89,8 +89,14 @@ Existe a possibilidade também, de inserirmos um modelo global padrão para impr
 
 <img src="https://user-images.githubusercontent.com/130560587/234349272-7c56d3ba-9b4b-44b9-96f9-c3a6100d2de6.PNG" height="240">
 
-Ao selecionarmos o campo "Perguntas", é só seguir os passos indicados em "Configuração dos Checklists - Geral" no item "segunda aba suspensa"'
+Ao selecionarmos o campo "Perguntas", é só seguir os passos indicados em "Configuração dos Checklists - Geral" no item "segunda aba suspensa".
 
+Ao selecionarmos o campo "Novo Modelo Checklist", teremos a opção pela segmentação e classificação dos Checklists a serem criados. Com a opção de inserção por Grupo, Tipo, Modelo, e a opção de inserir uma descrição do modelo a ser criado. 
+
+OBS: Para criar um novo "Grupo, Tipo, Modelo, basta apenas escrever a frase requerida no campo livre Pergunta. Um outra forma, é clicar no botão azul(caderneta com lápis) à direita do campo em branco das perguntas, clicar no botão "+"(EM AZUL) para criar uma nova pergunta.  
+
+
+<img src="https://user-images.githubusercontent.com/130560587/234353204-b10fd7dd-0b34-4059-89ca-ca5532fde9df.PNG" height="320">       <img src="https://user-images.githubusercontent.com/130560587/234353207-d3799c86-ce4f-4034-9749-809c00a4236c.PNG" height="325">
 
 ## Tutorial de Utilização
 [Voltar ao topo](#sumário)
