@@ -49,7 +49,7 @@ Na primeira aba suspensa, inserimos os dados relacionados à empresa dona do pro
 
 Na segunda aba suspensa, inserimos a localização da empresa. 
 
-<img src="https://user-images.githubusercontent.com/130560587/234287718-c7394d8a-e5bc-43e4-9562-2807db0aef09.PNG" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/234287718-c7394d8a-e5bc-43e4-9562-2807db0aef09.PNG" height="380">
 
 Na terceira aba suspensa, os dados de mídia que por ventura possam ser necessários. 
 
