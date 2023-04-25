@@ -99,7 +99,25 @@ OBS: Para criar um novo "Grupo, Tipo, Modelo, basta apenas escrever a frase requ
 
 Na aba suspensa "Instruções", podem ser incluídas diversas instruções de preenchimento do Checklist criado, aos usuários. 
 
-<img src="https://user-images.githubusercontent.com/130560587/234354742-ee0291fa-5fed-4c85-9e4a-8d5b2ed60dc2.PNG" height="440">
+<img src="https://user-images.githubusercontent.com/130560587/234354742-ee0291fa-5fed-4c85-9e4a-8d5b2ed60dc2.PNG" height="420">
+
+Na aba suspensa "Cabeçalho", podemos selecionar os campos que constarão no cabeçalho do Checklist criado, aos usuários. 
+
+<img src="https://user-images.githubusercontent.com/130560587/234356113-488e700f-eeb7-4a0e-8a56-72fd34a6fc39.PNG" height="380"> 
+
+Dentro ainda das abas suspensas, temos o campo "Campos adicionais", onde podem ser incluídos níveis de informações, conforme demanda dos usuários.
+
+<img src="https://user-images.githubusercontent.com/130560587/234357731-2cceb11b-bfaf-4b5c-9d08-d720faa8a991.PNG" height="390"> 
+
+Na aba suspensa "Perguntas", vamos configurar como estarão dispostas as perguntas dentro do Checklist, além é claro, adicionar as perguntas que serão vinculadas à esse Checklist. 
+
+<img src="https://user-images.githubusercontent.com/130560587/234359026-7cfbd823-199f-4aac-a372-1f038bb03260.PNG" height="390"> 
+
+Na aba suspensa "Ação", temos a opção de permitir que sejam criados planos de ação vinculados ou não às Não-Conformidades encontradas.
+
+<img src="https://user-images.githubusercontent.com/130560587/234359846-99996993-5e05-414c-bde9-2149c7a76524.PNG" height="390"> 
+
+
 
 
 ## Tutorial de Utilização
