@@ -5,9 +5,9 @@
 - [Introdução](#introdução)
 - [Acesso Inicial](#acesso-inicial)
 - [Selecionar Módulo](#selecionar-módulo)
-- [Configuração dos Dados da Empresa](#selecionando-configuração-dos-dados-da-empresa)
-- [Entendendo o Menu Suspenso](#entendendo-o-menu-suspenso) 
-- [Outras Funcionalidades](#outras-funcionalidades)
+- [Configuração dos Dados da Empresa](#configuração-dos-dados-da-empresa)
+- [Configuração Geral dos Checklist](#configuração-geral-dos-checklist) 
+- [Configuração dos Modelos de Checklist](#configuração-dos-modelos-de-checklist)
 - [Tutorial de Utilização](#tutorial-de-utilização)
 
 
@@ -64,7 +64,7 @@ Na quinta e última aba suspensa, podemos configurar as funções dentro da orga
 <img src="https://user-images.githubusercontent.com/130560587/234289109-b882b9b5-f87f-452a-9c67-a7eb18921dc2.PNG" height="350">
 
 
-## Configuração dos Checklists - Geral
+## Configuração Geral dos Checklists 
 [Voltar ao topo](#sumário)
 
 Na primeira aba suspensa, no campo Alternativas, podemos configurar as opções de respostas que estarão disponíveis nos Checklists a serem criados. Exemplos: Conforme/Não-Conforme, Sim/ Não/ N/A e etc. 
@@ -84,7 +84,7 @@ Existe a possibilidade também, de inserirmos um modelo global padrão para impr
 
 <img src="https://user-images.githubusercontent.com/130560587/234347993-9819362c-187a-47d2-ae9c-77de081975e9.PNG" height="440">
 
-## Configuração dos Checklists - Modelos
+## Configuração dos Modelos de Checklists
 [Voltar ao topo](#sumário)
 
 <img src="https://user-images.githubusercontent.com/130560587/234349272-7c56d3ba-9b4b-44b9-96f9-c3a6100d2de6.PNG" height="240">
