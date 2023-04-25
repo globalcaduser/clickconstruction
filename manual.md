@@ -129,6 +129,8 @@ Existe a possibilidade também, de inserirmos um modelo específico para impress
 ## Tutorial de Utilização
 [Voltar ao topo](#sumário)
 
+https://youtu.be/md5eyfg9RjY
+
 
 
 ### A GLOBALCAD agradece pela atenção dispensada na leitura do material e esperamos que ele possa ser de grande valia na utilizção do APP. 
