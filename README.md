@@ -117,7 +117,13 @@ Na aba suspensa "Ação", temos a opção de permitir que sejam criados planos d
 
 <img src="https://user-images.githubusercontent.com/130560587/234359846-99996993-5e05-414c-bde9-2149c7a76524.PNG" height="390"> 
 
+A aba suspensa "Rodapé", traz a opção de inserção de anexos, campos de observações, e inserção de assinaturas dentro do modelo. 
 
+<img src="https://user-images.githubusercontent.com/130560587/234360516-cbc133f8-1c14-4074-869f-4f3985d0ad15.PNG" height="390"> 
+
+Existe a possibilidade também, de inserirmos um modelo específico para impressão/exportação, conforme necessidade, dentro da aba suspensa "Modelo"
+
+<img src="https://user-images.githubusercontent.com/130560587/234361166-556a4f17-6d5a-4994-b4c9-ad3d857b4574.PNG" height="390"> 
 
 
 ## Tutorial de Utilização
