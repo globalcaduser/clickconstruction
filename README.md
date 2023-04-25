@@ -64,12 +64,32 @@ Na quinta e última aba suspensa, podemos configurar as funções dentro da orga
 <img src="https://user-images.githubusercontent.com/130560587/234289109-b882b9b5-f87f-452a-9c67-a7eb18921dc2.PNG" height="350">
 
 
-## Configuração dos Checklists
+## Configuração dos Checklists - Geral
 [Voltar ao topo](#sumário)
 
+Na primeira aba suspensa, no campo Alternativas, podemos configurar as opções de respostas que estarão disponíveis nos Checklists a serem criados. Exemplos: Conforme/Não-Conforme, Sim/ Não/ N/A e etc. 
 
+<img src="https://user-images.githubusercontent.com/130560587/234340974-bf37667b-4202-4b88-b869-caf380565d12.PNG" height="350">
 
+Na segunda aba suspensa, no campo Perguntas, podemos criar as perguntas que irão compor os Checklist, assim como as configurações de cada uma. 
+[Item](#item)
 
+<img src="https://user-images.githubusercontent.com/130560587/234345019-59f57ece-7bc6-45c5-aac9-bad204bd1277.PNG" height="380"><img src="https://user-images.githubusercontent.com/130560587/234345607-a9e61b6c-b97f-42b5-92b8-c1d4f3a9edd5.PNG" height="440">
+
+Para criar uma nova pergunta, basta apenas escrever a frase requerida no campo livre Pergunta. Um outra forma, é clicar no botão azul(caderneta com lápis) à direita do campo em branco das perguntas, clicar no botão "+"(EM AZUL) para criar uma nova pergunta. 
+
+<img src="https://user-images.githubusercontent.com/130560587/234346368-d223abb6-41e4-419b-a157-3e61758bd5fe.PNG" height="320">
+
+Existe a possibilidade também, de inserirmos um modelo global padrão para impressão/exportação, conforme necessidade. 
+
+<img src="https://user-images.githubusercontent.com/130560587/234347993-9819362c-187a-47d2-ae9c-77de081975e9.PNG" height="440">
+
+## Configuração dos Checklists - Modelos
+[Voltar ao topo](#sumário)
+
+<img src="https://user-images.githubusercontent.com/130560587/234349272-7c56d3ba-9b4b-44b9-96f9-c3a6100d2de6.PNG" height="240">
+
+Ao selecionarmos o campo "Perguntas", é só seguir os passos indicados em "Configuração dos Checklists - Geral" no item "segunda aba suspensa"'
 
 
 ## Tutorial de Utilização
