@@ -95,8 +95,12 @@ Ao selecionarmos o campo "Novo Modelo Checklist", teremos a opção pela segment
 
 OBS: Para criar um novo "Grupo, Tipo, Modelo, basta apenas escrever a frase requerida no campo livre Pergunta. Um outra forma, é clicar no botão azul(caderneta com lápis) à direita do campo em branco das perguntas, clicar no botão "+"(EM AZUL) para criar uma nova pergunta.  
 
-
 <img src="https://user-images.githubusercontent.com/130560587/234353204-b10fd7dd-0b34-4059-89ca-ca5532fde9df.PNG" height="320">       <img src="https://user-images.githubusercontent.com/130560587/234353207-d3799c86-ce4f-4034-9749-809c00a4236c.PNG" height="325">
+
+Na aba suspensa "Instruções", podem ser incluídas diversas instruções de preenchimento do Checklist criado, aos usuários. 
+
+<img src="https://user-images.githubusercontent.com/130560587/234354742-ee0291fa-5fed-4c85-9e4a-8d5b2ed60dc2.PNG" height="440">
+
 
 ## Tutorial de Utilização
 [Voltar ao topo](#sumário)
